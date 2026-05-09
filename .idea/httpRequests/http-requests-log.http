@@ -1,0 +1,9 @@
+GET http://localhost:9091/api/v1/pets/10
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-05-08T095836.404.json
+
+###
+

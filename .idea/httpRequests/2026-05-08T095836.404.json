@@ -1,0 +1,6 @@
+{
+  "message": "Pet with id 10 not found.",
+  "status": "404 NOT_FOUND",
+  "code": 404,
+  "timestamp": "2026-05-08T09:58:36.854263"
+}

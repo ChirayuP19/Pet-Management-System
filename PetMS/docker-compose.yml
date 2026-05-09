@@ -1,0 +1,40 @@
+#services:
+#
+#  postgres:
+#    image: postgres:14
+#    ports:
+#      - "5432:5432"
+#    environment:
+#      POSTGRES_USER: chirayu
+#      POSTGRES_PASSWORD: chirayu
+#      POSTGRES_DB: chirayu
+#    volumes:
+#      - postgres-data:/var/lib/postgresql/data
+#    restart: unless-stopped
+#    networks:
+#      - custom-bridge
+#
+#  pgadmin:
+#    image: dpage/pgadmin4
+#    container_name: pg_admin_flowGrid
+#    restart: unless-stopped
+#    environment:
+#      PGADMIN_DEFAULT_EMAIL: chirayu010675@gmail.com
+#      PGADMIN_DEFAULT_PASSWORD: Chirayu@1911
+#    ports:
+#      - "5050:80"
+#    volumes:
+#      - pgadmin_data:/var/lib/pgadmin
+#    depends_on:
+#      - postgres
+#    networks:
+#      - custom-bridge
+#
+#
+#networks:
+#  custom-bridge:
+#    driver: bridge
+#
+#volumes:
+#  postgres-data:
+#  pgadmin_data:

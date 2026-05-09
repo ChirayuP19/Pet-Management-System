@@ -1,0 +1,11 @@
+datasource:
+  url: jdbc:postgresql://localhost:5432/petms
+  username: ${USERNAME}
+  password: ${PASSWORD}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+server:
+  port: 9091

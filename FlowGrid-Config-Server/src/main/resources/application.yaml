@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ChirayuP19/Pet-Management-System
+          search-paths: config-repo
+          default-label: feature/pet-service
+          clone-on-start: true
+#          username: ${GIT_USERNAME}
+#          password: ${GIT_PASSWORD}
+server:
+  port: 8888

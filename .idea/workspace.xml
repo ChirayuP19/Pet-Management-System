@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d78de48c-361e-4d5e-9ff4-0c8e4e680c0b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MailMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MailMS/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MailMS/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/MailMS/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PetMS/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetMS/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PetMS/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/mail-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/mail-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/owner-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/owner-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/petMs-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/petMs-service.yml" afterDir="false" />
-    </list>
+    <list default="true" id="d78de48c-361e-4d5e-9ff4-0c8e4e680c0b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +283,7 @@
       <workItem from="1778268599028" duration="1686000" />
       <workItem from="1778296159766" duration="8624000" />
       <workItem from="1778306714142" duration="12000" />
-      <workItem from="1778349855821" duration="1093000" />
+      <workItem from="1778349855821" duration="1436000" />
     </task>
     <servers />
   </component>

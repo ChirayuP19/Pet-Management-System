@@ -1,7 +1,8 @@
-datasource:
-  url: jdbc:postgresql://localhost:5432/petms
-  username: ${USERNAME}
-  password: ${PASSWORD}
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/petms
+    username: ${USERNAME}
+    password: ${PASSWORD}
   jpa:
     hibernate:
       ddl-auto: update

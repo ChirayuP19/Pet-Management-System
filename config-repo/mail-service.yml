@@ -1,13 +1,14 @@
-mail:
-  host: localhost
-  port: 1025
-  properties:
-    mail:
-      smtp:
-        auth: false
-        starttls:
-          enable: false
-  username: ${SYSTEM_EMAIL_ID}
-  password: ${SYSTEM_EMAIL_PASSWORD}
+spring:
+  mail:
+    host: localhost
+    port: 1025
+    properties:
+      mail:
+        smtp:
+          auth: false
+          starttls:
+            enable: false
+    username: ${SYSTEM_EMAIL_ID}
+    password: ${SYSTEM_EMAIL_PASSWORD}
 server:
   port: 9092

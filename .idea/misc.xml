@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/OwnerMS/pom.xml" />
         <option value="$PROJECT_DIR$/PawStack-Microservices/pom.xml" />
         <option value="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/pom.xml" />
+        <option value="$PROJECT_DIR$/FlowGrid-Config-Server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

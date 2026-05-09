@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d78de48c-361e-4d5e-9ff4-0c8e4e680c0b" name="Changes" comment="" />
+    <list default="true" id="d78de48c-361e-4d5e-9ff4-0c8e4e680c0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MailMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MailMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MailMS/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/MailMS/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PawStack-Microservices-OwnerMS/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PetMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetMS/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PetMS/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/mail-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/mail-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/owner-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/owner-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/petMs-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/petMs-service.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +27,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="93a585a6-0d6b-4177-848e-9e3d46f1b577" />
+        <option name="activeSessionId" value="25fa60eb-b2e7-4683-a7b4-314aa66de5f7" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -43,7 +57,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="127" />
+    <option name="cachedIndexableFilesCount" value="138" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -53,6 +67,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HttpClientOnboardingState">{
   &quot;isOnboardingCommentShown&quot;: true
@@ -97,12 +114,15 @@
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FlowGridConfigServerApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.MailMsApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.PawStackApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.PetMsApplication.executor&quot;: &quot;Run&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/pet-service&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/chirayu/Documents/FlowGrid-Microservices&quot;,
@@ -162,16 +182,17 @@
         <entry key="SpringBootApplicationConfigurationType">
           <value>
             <map>
-              <entry key="MailMsApplication" value="STOPPED" />
-              <entry key="PawStackApplication" value="STOPPED" />
-              <entry key="PetMsApplication" value="STOPPED" />
+              <entry key="FlowGridConfigServerApplication" value="STOPPED" />
+              <entry key="MailMsApplication" value="FAILED" />
+              <entry key="PawStackApplication" value="FAILED" />
+              <entry key="PetMsApplication" value="FAILED" />
             </map>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PetMsApplication">
+  <component name="RunManager" selected="Spring Boot.FlowGridConfigServerApplication">
     <configuration name="generated-requests | #7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#7" index="7" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -183,6 +204,13 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <method v="2" />
+    </configuration>
+    <configuration name="FlowGridConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FlowGrid-Config-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chirayu.petmanagement.FlowGridConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MailMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="MailMS" />
@@ -237,6 +265,7 @@
     <list>
       <item itemvalue="Docker.docker-compose.yml.mailpit: Compose Deployment" />
       <item itemvalue="HTTP Request.generated-requests | #7" />
+      <item itemvalue="Spring Boot.FlowGridConfigServerApplication" />
       <item itemvalue="Spring Boot.MailMsApplication" />
       <item itemvalue="Spring Boot.PawStackApplication" />
       <item itemvalue="Spring Boot.PetMsApplication" />
@@ -266,7 +295,9 @@
       <workItem from="1778244508309" duration="5841000" />
       <workItem from="1778268543051" duration="36000" />
       <workItem from="1778268599028" duration="1686000" />
-      <workItem from="1778296159766" duration="3404000" />
+      <workItem from="1778296159766" duration="8624000" />
+      <workItem from="1778306714142" duration="12000" />
+      <workItem from="1778349855821" duration="1093000" />
     </task>
     <servers />
   </component>
@@ -294,6 +325,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

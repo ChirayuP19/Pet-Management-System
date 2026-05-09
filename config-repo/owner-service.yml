@@ -1,4 +1,4 @@
-spring:spring:
+spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/ownerms
     username: ${USERNAME}
@@ -8,16 +8,12 @@ spring:spring:
       ddl-auto: update
     database-platform: org.hibernate.dialect.PostgreSQLDialect
     show-sql: true
-
-server:
-  port: 9090
-
 mail:
   service:
     url: http://localhost:9092/api/v1/mails
-
 pet:
   service:
     base:
-      url:
-        http://localhost:9091/api/v1/pets  port: 9090
+      url: http://localhost:9091/api/v1/pets
+server:
+  port: 9090
